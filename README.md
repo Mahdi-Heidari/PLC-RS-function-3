@@ -1,5 +1,5 @@
 # PLC-RS-function-3
-Launch an AC motor permanently from difference places using RS function.
+Launching an AC motor permanently from difference places using RS function.
 Here's the program diagram:
 
 ![Diagram](https://user-images.githubusercontent.com/41565191/57297863-fe6eb280-70e5-11e9-8948-b847c6c65c93.PNG)
